@@ -2,10 +2,12 @@
 
 This project is an Exploratory Data Analysis on the salaries of preofessionals working in the data domain in India.
 
-https://github.com/aseemdandgaval/GalleryGAN/blob/master/GalleryGAN_(500).ipynb
+https://github.com/aseemdandgaval/EDA-Salaries/blob/main/EDA_Industy_Salaries.ipynb <br />
+(Check this notebook for a slightly in-depth explaination and the code.) 
+
 <br>
 
-## Generative Adversarial Networks (GANs)
+## The Dataset
 
 Generative Adversarial Networks or GANs , are used for Generative modeling.
 Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.
