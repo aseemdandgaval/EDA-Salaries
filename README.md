@@ -4,13 +4,15 @@ This project is an Exploratory Data Analysis on the salaries of preofessionals w
 
 https://github.com/aseemdandgaval/EDA-Salaries/blob/main/EDA_Industy_Salaries.ipynb <br />
 (Check this notebook for a slightly in-depth explaination and the code.) 
-
 <br>
-
 ## The Dataset
 
-Generative Adversarial Networks or GANs , are used for Generative modeling.
-Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.
+![image](https://user-images.githubusercontent.com/79587733/208481820-98733b9b-b157-41d4-a234-cd8879de28cc.png)
+
+* The datasets contains information of the **Company Name**, **Job Title**, **Salaries Reported**, **Location** and the **Salary** of the working professional.  
+* By cleaning and transformation I've added two more columns **Field** and **Level** so that more question scan be asked and inferences can be made.
+* Originally  the salaries were in **Rupees(₹)**, **Pounds(£)**, **Dollars($)** , **per month** and **yearly**. They are converted into **Rupees per year(₹/yr)** for uniformity.
+
 
 ## Model and Training
 
